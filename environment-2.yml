@@ -1,4 +1,4 @@
-name: datascience_course_cemfi_class
+name: datascience_course_cemfi_class2
 dependencies:
   - python=3.8.8
   - jupyter
